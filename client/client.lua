@@ -1,4 +1,4 @@
-local QBCore = exports['qb-core']:GetCoreObject() 
+local QBCore = exports['Project-Bangladesh']:GetCoreObject() -- Change ['Project-Bangladesh'] to ['qb-core']
 
 local VehicleCoords = nil
 local CurrentCops = 0
